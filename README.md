@@ -1,1 +1,1 @@
-# random_weapon_bingo_nw
+# random_weapon_bingo_NW
